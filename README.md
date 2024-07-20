@@ -1,4 +1,4 @@
-# P-MODRLS
+# P-MODRL
 
 Source code for the paper "On Rate-Limiting in Mobile Data Networks".
 
